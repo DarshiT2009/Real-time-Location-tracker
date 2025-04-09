@@ -82,7 +82,8 @@ We ❤️ contributions!
 Feel free to:
 - Fork the repository
 - Raise pull requests
-- Suggest new features or report bugs via [Issues](https://github.com/your-repo/issues)
+- Suggest new features or report bugs via [Issues](https://github.com/DarshiT2009/Real-time-Location-tracker/issues)
+
 
 ---
 
