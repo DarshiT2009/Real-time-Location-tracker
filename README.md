@@ -1,6 +1,4 @@
-Sure! Here's your updated and polished project description with a **clean, professional finish** and a powerful closing line to leave a strong impression:
 
----
 
 #  Real-Time Location Tracker  
 A real-time location tracking web app that enables users to **track and share live locations** using **WebSockets** and **Leaflet.js** for interactive map experiences. 🚀
